@@ -1,0 +1,19 @@
+# ninja log v5
+27	520	7005367188872722	CMakeFiles/project4.dir/DivideByZero.cpp.obj	492aaccba7ffde97
+34	921	7004632517015276	CMakeFiles/project4.dir/Node.cpp.obj	936af8775b99a3c
+15	546	7005367189102620	CMakeFiles/project4.dir/Infix.cpp.obj	b13d4f95b81f15b2
+23	532	7005156032160502	CMakeFiles/project4.dir/LinkedStack.cpp.obj	4ec117621ea89a8b
+16	1143	7005383658425116	CMakeFiles/project4.dir/main.cpp.obj	5d5a14bbeb0acaf6
+1145	1814	7005383664916547	project4.exe	782e03e2adf67f48
+3	490	7005068223693908	CMakeFiles/project4.dir/Inficks.cpp.obj	909350aa32698331
+1	1030	7005160008120425	build.ninja	372f8bf076277441
+4	649	7007241498544153	CMakeFiles/project4.dir/main.cpp.obj	5d5a14bbeb0acaf6
+650	1530	7007241507304516	project4.exe	782e03e2adf67f48
+2	390	7007241718180251	CMakeFiles/project4.dir/main.cpp.obj	5d5a14bbeb0acaf6
+391	530	7007241719516464	project4.exe	782e03e2adf67f48
+3	443	7007243009153822	CMakeFiles/project4.dir/main.cpp.obj	5d5a14bbeb0acaf6
+443	685	7007243011496985	project4.exe	782e03e2adf67f48
+83	2285	7007255240932394	CMakeFiles/project4.dir/main.cpp.obj	5d5a14bbeb0acaf6
+135	2291	7007255241003515	CMakeFiles/project4.dir/DivideByZero.cpp.obj	492aaccba7ffde97
+128	2292	7007255241023521	CMakeFiles/project4.dir/Infix.cpp.obj	b13d4f95b81f15b2
+2293	3057	7007255248622122	project4.exe	782e03e2adf67f48
